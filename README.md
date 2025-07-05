@@ -1,2 +1,2 @@
 # First-Repository
-Use :  JAVA SCRIPT.
+Use :  JAVA SCRIPT (HTML)
